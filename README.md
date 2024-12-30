@@ -1,6 +1,9 @@
 # Sales Analysis on Sample Data of A B2B Pharma Company.
 
-Cleaned & Analysed sample sales data of a pharma company in excel, and created an interactive and appealing dashboard in Power BI.
+• Performed data cleaning and pre-processing to ensure accuracy and reliability of the dataset for analysis.
+• Analysed net sales across key dimensions such as city, sales channel, and product categories to uncover trends and insights.
+• Identified root causes for product returns, enabling data-driven recommendations to reduce return rates.
+• Designed an interactive Power BI dashboard to visualize sales patterns and provide actionable insights, enhancing decision-making for stakeholders.
 
 # Key Findings
 - "Kyra Enterprises" is the top customer with 53% of the total order value coming from them.
