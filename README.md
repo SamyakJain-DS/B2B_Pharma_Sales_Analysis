@@ -17,4 +17,4 @@ Cleaned & Analysed sample sales data of a pharma company in excel, and created a
 ![image](https://github.com/user-attachments/assets/eda5cc64-e151-4680-a401-291ae99e971a)
 
 # Dashboard
-![image](https://github.com/user-attachments/assets/4e77230b-bbbc-49ef-bd29-a81a3343261f)
+![Dashboard](https://github.com/user-attachments/assets/2d23aa47-7531-47ae-8bba-9bc195651f95)
