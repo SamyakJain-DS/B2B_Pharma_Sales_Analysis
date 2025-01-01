@@ -1,6 +1,6 @@
 # Sales Analysis on Sample Data of A B2B Pharma Company.
 
-• Performed data cleaning and pre-processing to ensure accuracy and reliability of the dataset for analysis.
+• Performed data cleaning and pre-processing to ensure accuracy and reliability of the dataset for analysis. </br>
 • Analysed net sales across key dimensions such as city, sales channel, and product categories to uncover trends and insights.
 • Identified root causes for product returns, enabling data-driven recommendations to reduce return rates.
 • Designed an interactive Power BI dashboard to visualize sales patterns and provide actionable insights, enhancing decision-making for stakeholders.
