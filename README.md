@@ -10,7 +10,7 @@
 - "Health Care" is the most popular category of goods, accounting for 70% of total sales.
 - "Semi WS Traditional" Channel accounts for 88% of the total sales.
 - Out of all reasons for returning a product, "Wrong Order" (37%) seems to be the most frequent reason.
-- Vadodara city accounts for 67% of the gross amount sold. On the other hand, Ahemedabad has the most net amount refunded.
+- Vadodara city accounts for 67% of the gross amount sold. On the other hand, Ahmedabad  has the most net amount refunded.
 
 # Raw Data
 ![image](https://github.com/user-attachments/assets/88f606d4-1076-4bf0-98c1-60660a1fdc32)
